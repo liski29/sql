@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Валюты>
+			<v8:Ref xsi:type="v8:CatalogRef.Валюты">7eaffb9b-8c58-11e5-bccc-005056b6a55e</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>643</v8:Code>
+			<v8:Description>руб.</v8:Description>
+			<v8:ЗагружаетсяИзИнтернета>false</v8:ЗагружаетсяИзИнтернета>
+			<v8:НаименованиеПолное>Российский рубль</v8:НаименованиеПолное>
+			<v8:Наценка>0</v8:Наценка>
+			<v8:ОсновнаяВалюта xsi:type="v8:CatalogRef.Валюты">00000000-0000-0000-0000-000000000000</v8:ОсновнаяВалюта>
+			<v8:ПараметрыПрописи>рубль, рубля, рублей, м, копейка, копейки, копеек, ж, 2</v8:ПараметрыПрописи>
+			<v8:СимвольноеПредставление>р.</v8:СимвольноеПредставление>
+			<v8:ФормулаРасчетаКурса/>
+			<v8:СпособУстановкиКурса/>
+		</v8:CatalogObject.Валюты>
+		<v8:ConstantValueManager.ВалютаУчета>
+			<v8:Value xsi:type="v8:CatalogRef.Валюты">7eaffb9b-8c58-11e5-bccc-005056b6a55e</v8:Value>
+		</v8:ConstantValueManager.ВалютаУчета>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
